@@ -1,0 +1,33 @@
+{
+  "name": "RESTful_API",
+  "description": "Fast, unopinionated, minimalist web framework",
+  "version": "1.0.0",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "contributors": [
+    {
+      "name": "",
+      "email": ""
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "",
+  "keywords": [
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.13.4",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {}
+}
